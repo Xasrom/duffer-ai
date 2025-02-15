@@ -3,3 +3,4 @@ uvicorn
 smolagents
 pytz
 pyyaml
+gradio
